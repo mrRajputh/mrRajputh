@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mrRajputh
-- 👀 I’m interested in learn py 
-- 🌱 I’m currently learning py............
-- 💞️ I’m looking to collaborate on newbie py learners
+- 👀 I’m interested in learn programming
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on newbie 
 - 📫 How to reach me .. it's a secrate
 
 <!---
