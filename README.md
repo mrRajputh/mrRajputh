@@ -42,19 +42,7 @@ I'm a recent Computer Science graduate with a passion for building **robust, sca
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
----
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mallikharjun&show_icons=true&theme=tokyonight" alt="Mallikharjun's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mallikharjun&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
----
-
-
----
 
 ### 📫 Connect With Me
 
