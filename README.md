@@ -10,7 +10,7 @@ I'm a recent Computer Science graduate with a passion for building **robust, sca
 - 🔭 Currently working on: JWT Authentication System using Spring Boot
 - 🌱 Exploring: Generative AI (LangChain, OpenAI APIs), AWS, Docker
 - 💬 Ask me about: Java, Spring Boot, APIs, REST, Postgres, JWT
-- 📫 How to reach me: `mallikrasaputhra@gmail.com`
+- 📫 How to reach me: `mallikharjunsingh.usa@gmail.com`
 - ⚡ Fun fact: I love breaking down complex backend systems and making them secure & efficient.
 
 ---
